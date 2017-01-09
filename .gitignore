@@ -48,3 +48,10 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+##logs 
+rsync.log
+rsync_error.log
+
+##passwords or giveaways
+rsync_files.rb
